@@ -9,3 +9,14 @@ C:\Projects\Game\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
 C:\Projects\Game\Game\Game\obj\Debug\Game.exe
 C:\Projects\Game\Game\Game\obj\Debug\Game.pdb
 C:\Projects\Game\Game\Game\obj\Debug\Game.Form2.resources
+C:\Projects\Game\GameRPS\Game\Game\bin\Debug\Game.exe.config
+C:\Projects\Game\GameRPS\Game\Game\bin\Debug\Game.exe
+C:\Projects\Game\GameRPS\Game\Game\bin\Debug\Game.pdb
+C:\Projects\Game\GameRPS\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Projects\Game\GameRPS\Game\Game\obj\Debug\Game.Form1.resources
+C:\Projects\Game\GameRPS\Game\Game\obj\Debug\Game.Form2.resources
+C:\Projects\Game\GameRPS\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Projects\Game\GameRPS\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Projects\Game\GameRPS\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Projects\Game\GameRPS\Game\Game\obj\Debug\Game.exe
+C:\Projects\Game\GameRPS\Game\Game\obj\Debug\Game.pdb
